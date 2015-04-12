@@ -1,11 +1,21 @@
+#So far just for this tennis website.
+
+
 from scrapy import Spider, Item, Field
 
-class Post(Item):
-	title = Field()
+STATE = 'ma'
+CITY = 'boston'
 
-class BlogSpider(Spider):
-	name, start_urls = 'blogspider', ['http://blog.scrapinghub.com']
+class Post(Item):
+	court = Field()
+	address = Field()
+	tel = Field()
+
+class CourtSiteSpider(Spider):
+	name, start_urls = 'tennis_courts', ['http://www.tennisround.com/tennis-courts/' + STATE + '/'+ CITY]
 
 	def parse(self, response):
-		return [Post(title=e.extract()) for e in response.css("h2 a::text")]
+		courts = response.xpath("//div[@class='name']//a/text()")
+		addresses = response.xpath("//div[@class='court-address']/text()")
+		return [Post(court=courts[i].extract(), address=addresses[i*3].extract().strip(), tel=addresses[i*3+2].extract().strip()) for i in xrange(0, len(courts))]
 
