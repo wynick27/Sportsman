@@ -6,5 +6,6 @@ A sport place search engine
 3. Run the yelp search by specifying the optional arguments: python yelp_search.py --term="badminton" --location="Boston, MA"
 
 For scrapy
+
 1. To install scrapy, run: pip install scrapy
 2. For instance, run tennis spider: scrapy runspider scrapy_tennis.py
