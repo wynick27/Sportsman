@@ -11,7 +11,7 @@ class Post(Item):
 	address = Field()
 	tel = Field()
 
-class CourtSiteSpider(Spider):
+class TennisCourtSpider(Spider):
 	name, start_urls = 'tennis_courts', ['http://www.tennisround.com/tennis-courts/' + STATE + '/'+ CITY]
 
 	def parse(self, response):
