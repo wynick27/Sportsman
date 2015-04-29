@@ -8,7 +8,8 @@
 import scrapy
 
 
-class CrawlersItem(scrapy.Item):
+class OnthesnowItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    trails =scrapy.Field()
+
