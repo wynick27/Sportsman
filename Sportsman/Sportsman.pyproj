@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5f32c4d5-4e8a-4aaf-ad10-fb7dbef50006</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>crawlers\crawlers\spiders\onthesnow.py</StartupFile>
+    <StartupFile>Esearch.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,9 @@
     <Folder Include="crawlers\crawlers\spiders\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CombineResult.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="crawlers\crawlers\items.py" />
     <Compile Include="crawlers\crawlers\pipelines.py" />
     <Compile Include="crawlers\crawlers\settings.py" />
@@ -39,6 +42,11 @@
     <Compile Include="crawlers\crawlers\spiders\swimmersguide.py" />
     <Compile Include="crawlers\crawlers\spiders\__init__.py" />
     <Compile Include="crawlers\crawlers\__init__.py" />
+    <Compile Include="Esearch.py" />
+    <Compile Include="GooglePlaces.py" />
+    <Compile Include="scrapy_baseball.py" />
+    <Compile Include="scrapy_tennis.py" />
+    <Compile Include="yelp_search.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="crawlers\crawlers\settings.pyc" />
