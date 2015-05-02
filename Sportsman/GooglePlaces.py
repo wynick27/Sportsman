@@ -4,6 +4,8 @@ from googleplaces import GooglePlaces, types, lang
 import json
 
 YOUR_API_KEY = 'AIzaSyCTqay66rwdaS5CdL9C2BArgrh5Xxwprfs'
+    #'AIzaSyDWvbupdPsaDcbzBsEjc7El5QYDu6eregc'
+    #'AIzaSyAROXFHSbtR0OA1hNKP8VaBRaUzUegksPA'
 
 google_places = GooglePlaces(YOUR_API_KEY)
 
