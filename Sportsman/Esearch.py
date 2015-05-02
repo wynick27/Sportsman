@@ -15,6 +15,7 @@ class ES_query(object):
     def create_index(self,index_name):
         with open('sportsman_schema.txt','r') as schema:
             sports_schema = json.load(schema)
+        self.es.indices.delete(index_name)
         novel_index = self.es.indices.create(index = index_name, body = sports_schema)
         return sports_schema
 
@@ -58,14 +59,14 @@ class ES_query(object):
             print '\n'
             print 'rank: ' + str(i+1)
             stadium = hits[i]["_source"]
-            print 'name: ' + stadium['name']
-            highlight = hits[i]["highlight"]
-            print 'highlights:'
-            for (k,v) in highlight.items():
-                print '    '+ k + ': ' + str(v)
+            print 'name: ' + stadium['name'][0]
+            #highlight = hits[i]["highlight"]
+            #print 'highlights:'
+            #for (k,v) in highlight.items():
+            #    print '    '+ k + ': ' + str(v)
 
 
 if __name__ == "__main__":
     x =  ES_query()
-    x.bulk_loading()
+    #x.bulk_loading()
     q_addr = x.q_place('Boston')
