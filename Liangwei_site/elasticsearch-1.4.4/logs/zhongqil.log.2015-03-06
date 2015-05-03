@@ -1,0 +1,289 @@
+[2015-03-06 11:11:11,331][INFO ][node                     ] [Atlas] version[1.4.4], pid[2156], build[c88f77f/2015-02-19T13:05:36Z]
+[2015-03-06 11:11:11,333][INFO ][node                     ] [Atlas] initializing ...
+[2015-03-06 11:11:11,337][INFO ][plugins                  ] [Atlas] loaded [], sites []
+[2015-03-06 11:11:14,171][INFO ][node                     ] [Atlas] initialized
+[2015-03-06 11:11:14,171][INFO ][node                     ] [Atlas] starting ...
+[2015-03-06 11:11:14,324][INFO ][transport                ] [Atlas] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.1.114:9300]}
+[2015-03-06 11:11:14,365][INFO ][discovery                ] [Atlas] zhongqil/QWyvJ3puQg-U8sGGO9prWQ
+[2015-03-06 11:11:18,157][INFO ][cluster.service          ] [Atlas] new_master [Atlas][QWyvJ3puQg-U8sGGO9prWQ][ZhongqiLees-MacBook-Pro.local][inet[/192.168.1.114:9300]], reason: zen-disco-join (elected_as_master)
+[2015-03-06 11:11:18,176][INFO ][http                     ] [Atlas] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.1.114:9200]}
+[2015-03-06 11:11:18,176][INFO ][node                     ] [Atlas] started
+[2015-03-06 11:11:18,755][INFO ][gateway                  ] [Atlas] recovered [2] indices into cluster_state
+[2015-03-06 11:11:48,177][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:11:48,177][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:12:18,173][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:12:48,179][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:12:48,179][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:13:18,180][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:13:48,186][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:13:48,186][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:14:18,187][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:14:48,194][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:14:48,194][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:15:18,197][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:15:48,203][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:15:48,203][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:16:18,205][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:16:48,212][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:16:48,212][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:17:18,215][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:17:48,221][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:17:48,221][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:18:18,225][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:18:48,228][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:18:48,228][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:19:18,235][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:19:48,241][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:19:48,241][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:20:18,247][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:20:48,248][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:20:48,248][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:21:18,250][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:21:48,254][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:21:48,254][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:22:18,257][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:22:48,263][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:22:48,263][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:23:18,268][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:23:48,275][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:23:48,275][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:24:18,277][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:24:48,285][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:24:48,285][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:25:18,285][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:25:48,290][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:25:48,290][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:26:18,293][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:26:48,299][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:26:48,299][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:27:18,304][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:27:48,310][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:27:48,310][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:28:18,316][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:28:48,317][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:28:48,318][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:29:18,323][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:29:48,326][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:29:48,327][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:30:18,333][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:30:48,337][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:30:48,337][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:31:18,343][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:31:48,349][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:31:48,349][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:32:18,352][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:32:48,356][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:32:48,357][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:33:18,361][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:33:48,364][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:33:48,364][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:34:18,370][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:34:48,375][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:34:48,375][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:35:18,382][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:35:48,384][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:35:48,384][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:36:18,390][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:36:48,394][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:36:48,394][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:37:18,400][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:37:48,402][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:37:48,402][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:38:18,408][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:38:48,414][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:38:48,414][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:39:18,420][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:39:48,422][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:39:48,423][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:40:18,428][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:40:48,432][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:40:48,432][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:41:18,433][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:41:48,436][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:41:48,436][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:42:18,435][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:42:48,437][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:42:48,437][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:43:18,438][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:43:48,445][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:43:48,445][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:44:18,447][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:44:48,450][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:44:48,450][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:45:18,454][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:45:48,459][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:45:48,459][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:46:18,465][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:46:48,471][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:46:48,472][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:47:18,473][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:47:48,479][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:47:48,479][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:48:18,485][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:48:48,489][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:48:48,489][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:49:18,491][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:49:48,495][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:49:48,495][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:50:18,499][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:50:48,501][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:50:48,501][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:51:18,505][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:51:48,508][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:51:48,509][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:52:18,513][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:52:48,514][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:52:48,514][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:53:18,515][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:53:48,515][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:53:48,515][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:54:18,521][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:54:48,526][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:54:48,526][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:55:18,530][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:55:48,531][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:55:48,531][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:56:18,537][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:56:48,542][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:56:48,542][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:57:18,546][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:57:48,550][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:57:48,550][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:58:18,551][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:58:48,553][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:58:48,553][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 11:59:18,558][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:59:48,562][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 11:59:48,562][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:00:18,566][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:00:48,572][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:00:48,572][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:01:18,574][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:01:48,579][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:01:48,579][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:02:18,583][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:02:48,584][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:02:48,584][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:03:18,588][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:03:48,592][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:03:48,592][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:04:18,598][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:04:48,604][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:04:48,604][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:05:18,606][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:05:48,608][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:05:48,608][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:06:18,611][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:06:48,618][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:06:48,618][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:07:18,624][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:07:48,628][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:07:48,629][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:08:18,634][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:08:48,636][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:08:48,636][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:09:18,638][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:09:48,644][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:09:48,644][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:10:18,647][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:10:48,651][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:10:48,651][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:11:18,652][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:11:48,653][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:11:48,653][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:12:18,658][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:12:48,659][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:12:48,659][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:13:18,660][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:13:48,661][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:13:48,662][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:14:18,663][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:14:48,670][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:14:48,671][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:15:18,677][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:15:48,678][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:15:48,678][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:16:18,679][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:16:48,681][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:16:48,681][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:18:09,535][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:18:09,535][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:18:39,535][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:19:09,537][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:19:09,537][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:19:39,539][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:20:09,544][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:20:09,544][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:20:39,548][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:21:09,549][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:21:09,549][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:21:39,555][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:22:09,558][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:22:09,558][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 12:22:39,560][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:23:09,566][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.4gb[7.5%], shards will be relocated away from this node
+[2015-03-06 12:23:09,566][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:13:19,918][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:13:19,918][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:13:49,922][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:14:19,928][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:14:19,928][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:14:49,930][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:15:19,933][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:15:19,933][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:15:49,939][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:41:05,061][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:41:05,061][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:41:35,067][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:42:05,072][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:42:05,072][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:42:35,077][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:43:05,082][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:43:05,082][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:43:35,088][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:44:05,094][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:44:05,094][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:44:35,100][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:45:05,104][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:45:05,104][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:45:35,108][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:46:05,115][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:46:05,115][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:46:35,120][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:47:05,127][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:47:05,127][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:47:35,127][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:53:47,990][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:53:47,990][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:54:17,993][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:54:47,996][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:54:47,997][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:55:18,001][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:55:48,004][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:55:48,004][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:56:18,007][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:56:48,008][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:56:48,008][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:57:18,012][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:57:48,014][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:57:48,014][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:58:18,015][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:58:48,020][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:58:48,021][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 13:59:18,021][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:59:48,027][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 13:59:48,027][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 14:00:18,033][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 14:00:48,037][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 14:00:48,037][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 14:01:18,045][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 16:16:36,111][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 16:16:36,111][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 17:01:45,319][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 17.3gb[7.5%], shards will be relocated away from this node
+[2015-03-06 17:01:45,320][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 18:16:30,769][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 16.3gb[7%], shards will be relocated away from this node
+[2015-03-06 18:16:30,777][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 19:16:47,972][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 16.3gb[7%], shards will be relocated away from this node
+[2015-03-06 19:16:47,977][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-06 20:32:08,078][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 16.3gb[7%], shards will be relocated away from this node
+[2015-03-06 20:32:08,080][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
