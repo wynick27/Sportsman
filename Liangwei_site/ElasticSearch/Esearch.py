@@ -49,7 +49,8 @@ class ES_query(object):
         }
 
         res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
-        self.prints(res)
+        return res["hits"]["hits"]
+        # self.prints(res)
 
     #print the required results by order
     def prints(self,res):
