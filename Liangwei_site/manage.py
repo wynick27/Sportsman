@@ -10,11 +10,11 @@ if __name__ == "__main__":
     execute_from_command_line(sys.argv)
 
 
-    # from search.models import State
-    # with open('List_Of_States.txt','r') as f:
-    #     for line in f:
-    #         temp = line.split('|')
-    #         s = temp[0]
-    #         q = State(name=s)
-    #         q.save()
+    # from search.models import SportType
+    # sports = ['Ski','Rock Climbing','Tennis','Badminton','Swimming','Table Tennis','Gym','Basketball','Baseball','football',
+    #           'Horse Riding']
+    # for s in sports:
+    #     q = SportType(name=s)
+    #     q.save()
+
 

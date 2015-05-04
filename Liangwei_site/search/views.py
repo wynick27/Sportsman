@@ -2,17 +2,11 @@ from django.http import HttpResponse
 from django.template import RequestContext
 from ElasticSearch.Esearch import ES_query
 from django.shortcuts import render
-from .models import State
+from .models import SportType
 
 def index(request):
-    # context = RequestContext(request)
-    states = State.objects.all()
-    # to_search = request.Get.get("Court_Name")
-    # q = ES_query()
-    # hits = q.q_place(to_search)
-
-
-    return render(request,'search/index.html',{'states':states})
+    sportType = SportType.objects.all()
+    return render(request,'search/index.html',{'sportType':sportType})
 
 
 def search_result(request):
