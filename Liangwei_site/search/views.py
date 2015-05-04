@@ -6,7 +6,19 @@ from .models import SportType
 
 def index(request):
     sportType = SportType.objects.all()
-    return render(request,'search/index.html',{'sportType':sportType})
+    if 'Court_Name' in request.POST:
+        to_search = request.POST['Court_Name']
+        q = ES_query()
+        hits = q.q_place(to_search)
+        output = []
+        for i in range(min(10,len(hits))):
+            temp = 'rank: ' + str(i+1)
+            stadium = hits[i]["_source"]
+            temp = temp + '     name: ' + stadium['name'][0]
+            output.append(temp)
+        return render(request,'search/index.html',{'hits':hits,'output':output,'sportType':sportType})
+    else:
+        return render(request,'search/index.html',{'sportType':sportType})
 
 
 def search_result(request):
@@ -20,7 +32,7 @@ def search_result(request):
             stadium = hits[i]["_source"]
             temp = temp + '     name: ' + stadium['name'][0]
             output.append(temp)
-        return render(request,'search/search_result.html',{'hits':hits,'output':output})
+        return render(request,'search/index.html',{'hits':hits,'output':output})
     else:
         return HttpResponse("Nothing found");
 

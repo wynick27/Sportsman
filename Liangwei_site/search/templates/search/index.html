@@ -67,7 +67,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   						</dd>
 				</dl>
 			</div>
-		<form class="form-wrapper cf" action= "{% url 'search_result' %}"  method="POST">
+		<form class="form-wrapper cf" action=""  method="POST">
 			{% csrf_token %}
 			<input type="text" name="Court_Name" placeholder="Search courts name here..." required>
 			<button type="submit" value="Submit">Search</button>
@@ -86,7 +86,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 			<span class="byline">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue</span>
 		</div>
 		<div class="boxA">
-			<p>Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus, a lobortis lorem mauris quis nunc. Praesent pellentesque facilisis elit. Class aptent taciti sociosqu ad  torquent per conubia nostra.</p>
+			<p>Total number of hits is {{ hits|length }}<br>
+
+    {% for result in output %}
+        <li>{{ result }}</li><br>
+    {% endfor %}</p>
 			<a href="#" class="button button-alt">More Info</a>
 		</div>
 		<div class="boxB">
