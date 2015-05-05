@@ -1,0 +1,35 @@
+{
+    "settings": {
+        "analysis": {
+            "filter": {
+                "stemmer_eng": {
+                    "type": "stemmer",
+                        "language": "english"
+                            },
+                        "english_stop":{
+                            "type" : "stop",
+                            "stop_words" : "_english_"
+                    }
+                    },
+                    
+                    "analyzer": {
+                        "analyzer_eng_v": {
+                            "type": "custom",
+                            "tokenizer": "standard",
+                            "filter": ["lowercase", "english_stop", "stemmer_eng"] }
+    }}},
+
+		"mappings": {
+			"stadium": {
+				"properties" : {
+					"name" : {
+						"type": "string",
+						"index": "not_analyzed"},
+					"location" : {
+						"type": "string",
+						"analyzer": "analyzer_eng_v"}
+		}}}
+
+}
+					
+					

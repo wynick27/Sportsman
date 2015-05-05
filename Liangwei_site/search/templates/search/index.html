@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : FirstBase 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140404
+
+-->
+{% load staticfiles %}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" />
+<link href="{% static 'search/default.css' %}" rel="stylesheet" type="text/css" media="all" />
+<link href="{% static 'search/fonts.css' %}" rel="stylesheet" type="text/css" media="all" />
+
+  <style>
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
+</style>
+<link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Playball'>
+
+<script src="{% static 'search/js/prefixfree.min.js' %}"></script>
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">SportsMan</a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="active"><a href="#" accesskey="1" title="">Homepage</a></li>
+				<li><a href="#" accesskey="2" title="">Our Clients</a></li>
+				<li><a href="#" accesskey="3" title="">About Us</a></li>
+				<li><a href="#" accesskey="4" title="">Careers</a></li>
+				<li><a href="#" accesskey="5" title="">Contact Us</a></li>
+			</ul>
+		</div>
+	</div>
+
+<div id="banner-wrapper">
+	<div id="banner" class="container">
+		<div class="title">
+			<h2>BREATHE THROUGH IT</h2>
+			<span class="byline">Nothing Hurts More Than Sitting On A Couch</span>
+		</div>
+			 <div class="wrapper">
+				<dl id="country-select" class="dropdown">
+  					<dt><a><span><span></span><span>Select Sport Type</span></span></a></dt>
+  						<dd>
+    						<ul style="display: none;">
+    							{% for s in sportType %}
+    							<li><a cunt_code="" href="javascript:void(0);" value="s.name"><span style="background-position:0px -1694px"></span><span>{{ s.name }}</span><span></span></a></li>
+    							{% endfor %}
+    						</ul>
+  						</dd>
+				</dl>
+			</div>
+		<form class="form-wrapper cf" action=""  method="POST">
+			{% csrf_token %}
+			<input type="text" name="Court_Name" placeholder="Search courts name here..." required>
+			<button type="submit" value="Submit">Search</button>
+		</form>
+<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+
+  <script src="{% static 'search/js/index.js' %}"></script>
+	</div>
+</div>
+</div>
+<div id="wrapper">
+	<div id="three-column" class="container">
+    
+		<div class="title">
+			<h2>Feugiat lorem ipsum dolor sed veroeros</h2>
+			<span class="byline">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue</span>
+		</div>
+		<div class="boxA">
+			<p>Total number of hits is {{ hits|length }}<br>
+
+    {% for result in output %}
+        <li>{{ result }}</li><br>
+    {% endfor %}</p>
+			<a href="#" class="button button-alt">More Info</a>
+		</div>
+		<div class="boxB">
+			<p>Etiam neque. Vivamus consequat lorem at nisl. Nullam  wisi a sem semper eleifend. Donec mattis. Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus, a lobortis lorem mauris quis nunc.</p>
+			<a href="#" class="button button-alt">More Info</a>
+		</div>
+		<div class="boxC">
+			<p> Aenean lectus lorem, imperdiet at, ultrices eget, ornare et, wisi. Pellentesque adipiscing purus. Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus, a lobortis lorem mauris quis nunc.</p>
+			<a href="#" class="button button-alt">More Info</a>
+		</div>
+	</div>
+</div>
+<div id="welcome">
+	<div class="container">
+		<div class="title">
+			<h2>Fusce ultrices fringilla metus</h2>
+			<span class="byline">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue</span>
+		</div>
+        <img src="{% static 'search/images/pic2.jpg' %}" alt="" class="image image-full" />
+      <p>This is <strong>FirstBase</strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
+		<ul class="actions">
+			<li><a href="#" class="button">Etiam posuere</a></li>
+		</ul>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+</body>
+</html>

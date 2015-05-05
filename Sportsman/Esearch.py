@@ -15,7 +15,7 @@ class ES_query(object):
     def create_index(self,index_name):
         with open('sportsman_schema.txt','r') as schema:
             sports_schema = json.load(schema)
-        self.es.indices.delete(index_name)
+        #self.es.indices.delete(index_name)
         novel_index = self.es.indices.create(index = index_name, body = sports_schema)
 
 
@@ -41,11 +41,10 @@ class ES_query(object):
         query_body = {
             "query": {
                 "bool" : {
-                    "must": [{"match": {"address": string1}},
-                             {"match": {"activity_types": string2}}
-                             ],
+                    "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
+                             {"match": {"activity_types": string2}}],
                     #"should": {"match": {"text" : string2} },
-                    "boost" : 1.0}},
+                    "boost" : 1.0}}
         }
 
         res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
@@ -59,9 +58,7 @@ class ES_query(object):
             print '\n'
             print 'rank: ' + str(i+1)
             stadium = hits[i]["_source"]
-            print stadium
 
-            #print 'name: ' + stadium['name']
 
 
 if __name__ == "__main__":

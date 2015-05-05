@@ -31,6 +31,9 @@
 					"activity_types": {
 						"type": "string",
 						"index": "not_analyzed"},
+					"geo_location": {
+						"type": "geo_points",
+						"index": "not_analyzed"},
 					"google_maps_id": {
 						"type": "string",
 						"index": "not_analyzed"},
@@ -56,4 +59,4 @@
 
 }
 					
-					
+			
