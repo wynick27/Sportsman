@@ -15,7 +15,8 @@ class ES_query(object):
     def create_index(self,index_name):
         with open('sportsman_schema.txt','r') as schema:
             sports_schema = json.load(schema)
-        #self.es.indices.delete(index_name)
+        #if self.es.indices.exists:
+        self.es.indices.delete(index=index_name)
         novel_index = self.es.indices.create(index = index_name, body = sports_schema)
 
 
@@ -37,15 +38,25 @@ class ES_query(object):
         self.es.indices.refresh(index = "i_sportsman")
         return bulk_load
 
-    def q_mwf(self,string1,string2):
-        query_body = {
-            "query": {
-                "bool" : {
-                    "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
-                             {"match": {"activity_types": string2}}],
-                    #"should": {"match": {"text" : string2} },
-                    "boost" : 1.0}}
-        }
+    def q_mwf(self,string1,string2,num1,num2):
+        query_body = {"query" : {
+            "filtered" : {
+                "query": {
+                        "bool" : {
+                            "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
+                                    {"match": {"activity_types": string2}}],
+                            #"should": {"match": {"text" : string2} },
+                            "boost" : 1.0}},
+                "filter" : {
+                    "geo_distance" : {
+                        "distance" : "50km",
+                        "geo_location" : {
+                            "lat" : num1,
+                            "lon" : num2
+                        }
+                    }}
+            }
+        }}
 
         res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
         self.prints(res)
@@ -64,4 +75,4 @@ class ES_query(object):
 if __name__ == "__main__":
     x =  ES_query()
     x.bulk_loading()
-    q_addr = x.q_mwf('Boston','ski')
+    q_addr = x.q_mwf('MA','ski',42.3688784,-71.2467742)
