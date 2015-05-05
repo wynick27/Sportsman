@@ -15,8 +15,12 @@ class ES_query(object):
     def create_index(self,index_name):
         with open('sportsman_schema.txt','r') as schema:
             sports_schema = json.load(schema)
+<<<<<<< HEAD
+        #self.es.indices.delete(index_name)
+=======
         #if self.es.indices.exists:
         self.es.indices.delete(index=index_name)
+>>>>>>> 83789590cb00e2cf589dd69d9a781b22c735a557
         novel_index = self.es.indices.create(index = index_name, body = sports_schema)
 
 
@@ -38,6 +42,17 @@ class ES_query(object):
         self.es.indices.refresh(index = "i_sportsman")
         return bulk_load
 
+<<<<<<< HEAD
+    def q_mwf(self,string1,string2):
+        query_body = {
+            "query": {
+                "bool" : {
+                    "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
+                             {"match": {"activity_types": string2}}],
+                    #"should": {"match": {"text" : string2} },
+                    "boost" : 1.0}}
+        }
+=======
     def q_mwf(self,string1,string2,num1,num2):
         query_body = {"query" : {
             "filtered" : {
@@ -57,6 +72,7 @@ class ES_query(object):
                     }}
             }
         }}
+>>>>>>> 83789590cb00e2cf589dd69d9a781b22c735a557
 
         res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
         self.prints(res)
@@ -75,4 +91,8 @@ class ES_query(object):
 if __name__ == "__main__":
     x =  ES_query()
     x.bulk_loading()
+<<<<<<< HEAD
+    q_addr = x.q_mwf('Boston','ski')
+=======
     q_addr = x.q_mwf('MA','ski',42.3688784,-71.2467742)
+>>>>>>> 83789590cb00e2cf589dd69d9a781b22c735a557

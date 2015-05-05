@@ -1241,3 +1241,174 @@ org.elasticsearch.transport.NodeDisconnectedException: [Slipstream][inet[/192.16
 [2015-05-05 15:57:12,186][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
 [2015-05-05 15:57:12,186][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
 [2015-05-05 15:57:42,189][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 15:58:12,190][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 15:58:12,190][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 15:58:42,191][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 15:59:12,195][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 15:59:12,195][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 15:59:42,199][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:00:12,202][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:00:12,202][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:00:42,206][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:01:12,207][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:01:12,207][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:01:42,208][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:02:12,210][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:02:12,210][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:02:42,211][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:03:12,215][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:03:12,215][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:03:42,219][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:04:12,221][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:04:12,221][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:04:42,225][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:05:12,230][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:05:12,231][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:05:42,231][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:06:12,238][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:06:12,238][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:06:42,240][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:07:12,245][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:07:12,245][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:07:42,247][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:08:12,251][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:08:12,251][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:08:42,258][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:09:12,264][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:09:12,264][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:09:42,268][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:10:12,272][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:10:12,272][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:10:42,275][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:11:12,280][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:11:12,280][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:11:42,286][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:12:12,293][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:12:12,293][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:12:42,295][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:13:12,302][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:13:12,302][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:13:42,307][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:14:12,309][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:14:12,309][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:14:42,316][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:15:12,321][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:15:12,321][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:15:42,323][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:16:12,330][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:16:12,330][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:16:42,336][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:17:12,343][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:17:12,343][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:17:42,341][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:18:12,347][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:18:12,347][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:18:42,353][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:19:12,357][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:19:12,358][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:19:42,364][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:20:12,366][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:20:12,366][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:20:42,369][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:21:12,372][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:21:12,373][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:21:42,379][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:22:12,381][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:22:12,382][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:22:42,386][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:23:12,389][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:23:12,389][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:23:42,392][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:24:12,398][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:24:12,398][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:24:42,403][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:25:12,405][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:25:12,405][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:25:42,406][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:26:12,412][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:26:12,412][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:26:42,415][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:27:12,419][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:27:12,419][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:27:42,421][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:28:12,427][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:28:12,427][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:28:42,433][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:29:12,440][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:29:12,440][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:29:42,443][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:30:12,445][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:30:12,445][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:30:42,451][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:31:12,456][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:31:12,457][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:31:42,458][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:32:12,465][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:32:12,465][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:32:42,470][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:33:12,476][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:33:12,476][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:33:42,480][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:34:12,486][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:34:12,487][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:34:42,489][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:35:12,492][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:35:12,492][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:35:42,497][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:36:12,502][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:36:12,502][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:36:42,506][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:37:12,512][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:37:12,512][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:37:42,517][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:38:12,521][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:38:12,521][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:38:42,523][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:39:12,529][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:39:12,529][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:39:42,533][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:40:12,536][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:40:12,536][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:40:42,539][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:41:12,547][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:41:12,547][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:41:42,547][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:42:12,552][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:42:12,552][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:42:42,558][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:43:12,561][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:43:12,561][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:43:42,565][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:44:12,566][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:44:12,566][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:44:42,571][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:45:12,576][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:45:12,576][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:45:42,579][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:46:12,582][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:46:12,582][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:46:42,587][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:47:12,593][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:47:12,593][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:47:42,598][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:48:12,601][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:48:12,602][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:48:42,606][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:49:12,609][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:49:12,610][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:49:42,612][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:50:12,616][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:50:12,616][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:50:42,617][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:51:12,620][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:51:12,621][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:51:42,626][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:52:12,632][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:52:12,633][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:52:42,637][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:53:12,640][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:53:12,640][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:53:42,642][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:54:12,649][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:54:12,650][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:54:42,649][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
