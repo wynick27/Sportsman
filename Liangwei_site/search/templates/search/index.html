@@ -28,6 +28,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Playball'>
 
 <script src="{% static 'search/js/prefixfree.min.js' %}"></script>
+<script>
+    var URL = "{% url 'index' %}";
+</script>
 
 <!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 
@@ -56,8 +59,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 			<span class="byline">Nothing Hurts More Than Sitting On A Couch</span>
 		</div>
 			 <div class="wrapper">
-				<dl id="country-select" class="dropdown">
-  					<dt><a><span><span></span><span>Select Sport Type</span></span></a></dt>
+				<dl id="sports-select" class="dropdown">
+					{% csrf_token %}
+  					<dt><a><span><span></span><span>Select Sports Type</span></span></a></dt>
   						<dd>
     						<ul style="display: none;">
     							{% for s in sportType %}
@@ -69,12 +73,16 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 			</div>
 		<form class="form-wrapper cf" action=""  method="POST">
 			{% csrf_token %}
+			{% if searchText %}
+			<input type="text" name="Court_Name" value="{{ searchText }}" required>
+			{% else %}
 			<input type="text" name="Court_Name" placeholder="Search courts name here..." required>
+			{% endif %}
 			<button type="submit" value="Submit">Search</button>
 		</form>
 <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
-
-  <script src="{% static 'search/js/index.js' %}"></script>
+<script src="{% static 'search/js/jquery.cookie.js' %}"></script>
+<script src="{% static 'search/js/index.js' %}"></script>
 	</div>
 </div>
 </div>
@@ -87,14 +95,13 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 		</div>
 		<div class="boxA">
 			<p>Total number of hits is {{ hits|length }}<br>
-
-    {% for result in output %}
-        <li>{{ result }}</li><br>
-    {% endfor %}</p>
+			{% for result in output %}
+        	<li>{{ result }}</li><br>
+    		{% endfor %}</p>
 			<a href="#" class="button button-alt">More Info</a>
 		</div>
 		<div class="boxB">
-			<p>Etiam neque. Vivamus consequat lorem at nisl. Nullam  wisi a sem semper eleifend. Donec mattis. Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus, a lobortis lorem mauris quis nunc.</p>
+			<p>Selected Type: {{ selectedType }}</p>
 			<a href="#" class="button button-alt">More Info</a>
 		</div>
 		<div class="boxC">
