@@ -15,13 +15,13 @@ class ES_query(object):
     def create_index(self,index_name):
         with open('sportsman_schema.txt','r') as schema:
             sports_schema = json.load(schema)
-        self.es.indices.delete(index_name)
+        #self.es.indices.delete(index_name)
         novel_index = self.es.indices.create(index = index_name, body = sports_schema)
-        return sports_schema
+
 
     #bulk load the data
     def bulk_loading(self):
-        with open('rock_climbing.json','r') as j:
+        with open('onthesnowplace.json','r') as j:
             json_text = json.load(j)
         bulk_file = []
         action = { "index": { "_index": "i_sportsman", "_type": "stadium" }}
@@ -37,15 +37,14 @@ class ES_query(object):
         self.es.indices.refresh(index = "i_sportsman")
         return bulk_load
 
-    def q_place(self,string):
+    def q_mwf(self,string1,string2):
         query_body = {
-            "query":{
-                "multi_match" : {
-                    "query": string,
-                    "fields": [ "name", "location" ]}},
-            "highlight":{
-                "fields":{
-                    "locations":{}}}
+            "query": {
+                "bool" : {
+                    "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
+                             {"match": {"activity_types": string2}}],
+                    #"should": {"match": {"text" : string2} },
+                    "boost" : 1.0}}
         }
 
         res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
@@ -59,14 +58,10 @@ class ES_query(object):
             print '\n'
             print 'rank: ' + str(i+1)
             stadium = hits[i]["_source"]
-            print 'name: ' + stadium['name'][0]
-            #highlight = hits[i]["highlight"]
-            #print 'highlights:'
-            #for (k,v) in highlight.items():
-            #    print '    '+ k + ': ' + str(v)
+
 
 
 if __name__ == "__main__":
     x =  ES_query()
     x.bulk_loading()
-    q_addr = x.q_place('Boston')
+    q_addr = x.q_mwf('Boston','ski')
