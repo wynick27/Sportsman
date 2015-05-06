@@ -62,6 +62,28 @@ def add_google_places(placeiter,output,term,process_func):
         jsonfile=json.dumps(places, sort_keys=True, indent=4)
         f.write(jsonfile)
 
+def process_google(placeiter,output):
+    places = []
+    print len(placeiter)
+    for elem in placeiter:
+        result={}
+        result['name']=elem['name']
+        result['address']=elem['formatted_address']
+        if elem.has_key('international_phone_number'):
+            result['international_phone_number']=elem['international_phone_number']
+        if elem.has_key('formatted_phone_number'):
+            result['local_phone_number']=elem['formatted_phone_number']
+        if elem.has_key('website'):
+            result['website']=elem['website']
+        result['google_url']=elem['url']
+        result['google_maps_id']=elem['place_id']
+        result['geo_location']={'lat':elem['geometry']['location']['lat'],'lon':elem['geometry']['location']['lng']}
+        places.append(result)
+    with io.open(output,'wb')  as f:
+        jsonfile=json.dumps(places, sort_keys=True, indent=4)
+        f.write(jsonfile)
+
+
 def process_ski(elem,result):
     result['activity_types']=['ski','snowboard']
     specialized={}
@@ -96,5 +118,5 @@ def process_tennis(elem,result):
 if __name__ == '__main__':
     #skiplaces=json.load(open(r'data\onthesnow.json','r'))
     #add_google_places(skiplaces,r'data\onthesnowplace.json','name',process_ski)
-    tenniscorts=json.load(open(r'tennis_courts.json','r'))
-    add_google_places(tenniscorts["courts"].values(),r'data\tenniscourtsplace.json','court',process_tennis)
+    tenniscorts=json.load(open(r'google_swimming.txt','r'))
+    process_google(tenniscorts.values(),r'data\google_swiming.json')

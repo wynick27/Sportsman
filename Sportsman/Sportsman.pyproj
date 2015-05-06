@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5f32c4d5-4e8a-4aaf-ad10-fb7dbef50006</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Esearch.py</StartupFile>
+    <StartupFile>CombineResult.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -44,6 +44,7 @@
     <Compile Include="crawlers\crawlers\spiders\scrapy_cities.py" />
     <Compile Include="crawlers\crawlers\spiders\scrapy_states.py" />
     <Compile Include="crawlers\crawlers\spiders\scrapy_tennis.py" />
+    <Compile Include="crawlers\crawlers\spiders\swimmersguide - Copy.py" />
     <Compile Include="crawlers\crawlers\spiders\swimmersguide.py" />
     <Compile Include="crawlers\crawlers\spiders\__init__.py" />
     <Compile Include="crawlers\crawlers\__init__.py" />
