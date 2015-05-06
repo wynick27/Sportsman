@@ -6,6 +6,19 @@ from googleplaces import GooglePlaces
 YOUR_API_KEY = 'AIzaSyCTqay66rwdaS5CdL9C2BArgrh5Xxwprfs'
 
 google_places = GooglePlaces(YOUR_API_KEY)
+
+def map_sports(sports):
+    filtered=filter(lambda x: not x in {'area','place','places','location','resort','court','courts'},sports)
+    sport=' '.join(filtered).lower()
+    map={'snowboard':'ski','swimming pool':'swim','swimming':'swim'}
+       
+    if sport in ['ski','swim','tennis','rock_climbing']:
+        return sport
+    elif sport in map:
+        return map[sport]
+
+    return 'unknown'
+
 # populate ingredients->recipes "database"
 
 # classes to be constructed at parse time, from intermediate ParseResults
@@ -123,12 +136,11 @@ class QueryString():
     def gen_with_expr(self,sport):
         return self.withexpr[1].gen_query(sport)
 
-    def map_sports(self,sports):
-        return 'ski'
+
     def gen_query(self,geolocation):
         self.geolocation=geolocation
         filter = self.rangeexpr or self.withexpr
-        sport=self.map_sports(self.sports)
+        sport=map_sports(self.sports)
         queries=[{"match": {"activity_types": sport}}]
         filters=[]
         if self.inexpr:
@@ -196,9 +208,9 @@ class NLQuery(object):
 if __name__ == "__main__":
 # test the grammar and selection logic
     test = """\
-     ski places with more than 100 trails and skiableareas > 3500
+     snowboard places with more than 100 trails and skiableareas > 3500
      ski resorts within 20miles
-     ski areas near Waltham, MA
+     tennis court near Waltham, MA
      ski places near me
      ski places in MA""".splitlines()
     nlquery=NLQuery()

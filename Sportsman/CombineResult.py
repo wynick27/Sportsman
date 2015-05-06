@@ -12,7 +12,6 @@ YOUR_API_KEY = 'AIzaSyCTqay66rwdaS5CdL9C2BArgrh5Xxwprfs'
 
 google_places = GooglePlaces(YOUR_API_KEY)
 
-
 def add_google_places(placeiter,output,term,process_func):
     places = []
     print len(placeiter)
