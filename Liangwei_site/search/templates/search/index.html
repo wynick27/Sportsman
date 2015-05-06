@@ -71,7 +71,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   						</dd>
 				</dl>
 			</div>
-		<form class="form-wrapper cf" action=""  method="POST">
+		<form class="form-wrapper cf" action="#three-column"  method="POST">
 			{% csrf_token %}
 			{% if searchText %}
 			<input type="text" name="Court_Name" value="{{ searchText }}" required>

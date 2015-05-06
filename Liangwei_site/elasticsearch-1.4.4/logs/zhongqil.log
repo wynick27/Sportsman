@@ -1412,3 +1412,6 @@ org.elasticsearch.transport.NodeDisconnectedException: [Slipstream][inet[/192.16
 [2015-05-05 16:54:12,649][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
 [2015-05-05 16:54:12,650][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
 [2015-05-05 16:54:42,649][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:55:12,656][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-05-05 16:55:12,656][INFO ][cluster.routing.allocation.decider] [T-Ray] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-05-05 16:55:42,657][WARN ][cluster.routing.allocation.decider] [T-Ray] high disk watermark [10%] exceeded on [1jsX_9HBTVW4rF_OU7ffcA][T-Ray] free: 11.8gb[5.1%], shards will be relocated away from this node
