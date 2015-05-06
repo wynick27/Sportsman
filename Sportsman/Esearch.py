@@ -1,6 +1,7 @@
 __author__ = 'CassyLee'
 
 from datetime import datetime
+from NLQuery import NLQuery
 from elasticsearch import Elasticsearch
 import json
 import time
@@ -10,6 +11,7 @@ class ES_query(object):
 
     def __init__(self):
         self.es = Elasticsearch()
+        self.nlq = NLQuery()
 
 #load schema and create an index
     def create_index(self,index_name):
@@ -38,33 +40,49 @@ class ES_query(object):
         self.es.indices.refresh(index = "i_sportsman")
         return bulk_load
 
-    def q_mwf(self,string1,string2):
-        query_body = {
-            "query": {
-                "bool" : {
-                    "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
-                             {"match": {"activity_types": string2}}],
-                    #"should": {"match": {"text" : string2} },
-                    "boost" : 1.0}}
-        }
+    def q_mwf(self,string1,string2,num1,num2):
+        query_body = {"query" : {
+            "filtered" : {
+                "query": {
+                        "bool" : {
+                            "must": [{"match": {"address": {"query":string1, "operator": "and"}}},
+                                    {"match": {"activity_types": string2}}],
+                            #"should": {"match": {"text" : string2} },
+                            "boost" : 1.0}},
+                "filter" : {
+                    "geo_distance" : {
+                        "distance" : "50km",
+                        "geo_location" : {
+                            "lat" : num1,
+                            "lon" : num2
+                        }
+                    }}
+            }
+        }}
+
 
         res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
         self.prints(res)
         return res
 
+    def q_nl(self,string):
+        query_body = self.nlq.gen_query(string)
+        res = self.es.search(index = "i_sportsman", doc_type = "stadium", body = query_body,size = 10000)
+        self.prints(res)
+        return res
     #print the required results by order
     def prints(self,res):
         hits = res["hits"]["hits"]
         print 'totle number of hits: ' + str(len(hits))
         for i in range(min(10,len(hits))):
             print '\n'
-            print 'rank: ' + str(i+1)
+            print 'name: ' + hits[i]["_source"]['name']
             stadium = hits[i]["_source"]
 
 
 
 if __name__ == "__main__":
     x =  ES_query()
+    x.q_nl('ski places with more than 100 trails within 150 miles')
     #x.bulk_loading()
-    q_addr = x.q_mwf('Boston','ski')
-    print q_addr
+    #q_addr = x.q_mwf('MA','ski',42.3688784,-71.2467742)

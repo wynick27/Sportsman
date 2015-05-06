@@ -30,7 +30,7 @@
                     "locality", 
                     "political"
                 ]
-            }, 
+            },  
             {
                 "long_name": "San Diego County", 
                 "short_name": "San Diego County", 

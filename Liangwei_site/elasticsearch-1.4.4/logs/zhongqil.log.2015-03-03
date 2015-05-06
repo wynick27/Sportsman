@@ -1,0 +1,120 @@
+[2015-03-03 23:14:52,223][INFO ][node                     ] [Chan Luichow] version[1.4.4], pid[9754], build[c88f77f/2015-02-19T13:05:36Z]
+[2015-03-03 23:14:52,224][INFO ][node                     ] [Chan Luichow] initializing ...
+[2015-03-03 23:14:52,232][INFO ][plugins                  ] [Chan Luichow] loaded [], sites []
+[2015-03-03 23:14:55,213][INFO ][node                     ] [Chan Luichow] initialized
+[2015-03-03 23:14:55,214][INFO ][node                     ] [Chan Luichow] starting ...
+[2015-03-03 23:14:55,411][INFO ][transport                ] [Chan Luichow] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.1.110:9300]}
+[2015-03-03 23:14:55,434][INFO ][discovery                ] [Chan Luichow] zhongqil/4VsF9qsbQSGe0O1FqjzzBw
+[2015-03-03 23:14:59,215][INFO ][cluster.service          ] [Chan Luichow] new_master [Chan Luichow][4VsF9qsbQSGe0O1FqjzzBw][ZhongqiLees-MacBook-Pro.local][inet[/192.168.1.110:9300]], reason: zen-disco-join (elected_as_master)
+[2015-03-03 23:14:59,238][INFO ][http                     ] [Chan Luichow] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.1.110:9200]}
+[2015-03-03 23:14:59,239][INFO ][node                     ] [Chan Luichow] started
+[2015-03-03 23:15:00,109][INFO ][gateway                  ] [Chan Luichow] recovered [2] indices into cluster_state
+[2015-03-03 23:15:29,238][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:15:29,239][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:15:59,229][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:16:29,231][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:16:59,237][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:16:59,238][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:17:29,242][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:17:59,248][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:17:59,248][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:18:29,252][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:18:59,255][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:18:59,255][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:19:29,261][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:19:59,263][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:19:59,263][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:20:29,267][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:20:59,268][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:20:59,269][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:21:29,273][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:21:59,275][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:21:59,275][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:22:29,281][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:22:59,282][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:22:59,282][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:23:29,286][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:23:59,289][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:23:59,289][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:24:29,291][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:24:59,296][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:24:59,297][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:25:29,299][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:25:59,301][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:25:59,301][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:26:29,307][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:26:59,308][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:26:59,309][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:27:29,311][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:27:59,315][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:27:59,315][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:28:29,316][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:28:59,322][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:28:59,322][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:29:29,325][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:29:59,330][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:29:59,330][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:30:29,331][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:30:59,335][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:30:59,335][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:31:29,337][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:31:59,342][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:31:59,342][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:32:29,345][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:32:59,349][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:32:59,349][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:33:29,352][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:33:59,356][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:33:59,356][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:34:29,360][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:34:59,365][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:34:59,365][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:35:29,365][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:35:59,369][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:35:59,369][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:36:29,375][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:36:59,380][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:36:59,380][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:37:29,384][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:37:59,387][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:37:59,388][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:38:29,392][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:38:59,395][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:38:59,395][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:39:29,399][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:39:59,400][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:39:59,400][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:40:29,404][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:40:59,408][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:40:59,408][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:41:29,409][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:41:59,413][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:41:59,413][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:42:29,417][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:42:59,418][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:42:59,418][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:43:29,422][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:43:59,424][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:43:59,424][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:44:29,427][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:44:59,431][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:44:59,431][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:45:29,434][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:45:59,438][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:45:59,439][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:46:29,439][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:46:59,445][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:46:59,446][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:47:29,445][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:47:59,447][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:47:59,447][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:48:29,449][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:48:59,454][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:48:59,455][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:49:29,457][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:49:59,459][WARN ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark [10%] exceeded on [4VsF9qsbQSGe0O1FqjzzBw][Chan Luichow] free: 7gb[3%], shards will be relocated away from this node
+[2015-03-03 23:49:59,459][INFO ][cluster.routing.allocation.decider] [Chan Luichow] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-03 23:50:13,768][INFO ][node                     ] [Chan Luichow] stopping ...
+[2015-03-03 23:50:13,820][INFO ][node                     ] [Chan Luichow] stopped
+[2015-03-03 23:50:13,820][INFO ][node                     ] [Chan Luichow] closing ...
+[2015-03-03 23:50:13,829][INFO ][node                     ] [Chan Luichow] closed

@@ -1,0 +1,8 @@
+[2015-03-07 00:02:26,620][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 16.3gb[7%], shards will be relocated away from this node
+[2015-03-07 00:02:26,752][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-07 00:51:04,298][WARN ][cluster.routing.allocation.decider] [Atlas] high disk watermark [10%] exceeded on [QWyvJ3puQg-U8sGGO9prWQ][Atlas] free: 16.3gb[7%], shards will be relocated away from this node
+[2015-03-07 00:51:04,310][INFO ][cluster.routing.allocation.decider] [Atlas] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-03-07 00:51:18,060][INFO ][node                     ] [Atlas] stopping ...
+[2015-03-07 00:51:18,393][INFO ][node                     ] [Atlas] stopped
+[2015-03-07 00:51:18,394][INFO ][node                     ] [Atlas] closing ...
+[2015-03-07 00:51:18,415][INFO ][node                     ] [Atlas] closed

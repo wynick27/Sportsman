@@ -1,0 +1,28 @@
+
+<html>
+
+    <head>
+        <title>SportsMan</title>
+    </head>
+
+    <body>
+        <h1>Welcome to the SportsMan website!</h1>
+    </body>
+
+    <select>
+        <option value="Rock_Climbing">Rock Climbing</option>
+    </select>
+
+    <select>
+        {% for s in states %}
+            <option value="s.name">{{ s.name }}</option>
+        {% endfor %}
+    </select>
+
+    <form action= "{% url 'search_result' %}"  method="POST">
+        {% csrf_token %}
+        Name: <input type="text" name="Court_Name"><br>
+        <input type="submit" value="Submit">
+    </form><br><br><br><br>
+
+</html>

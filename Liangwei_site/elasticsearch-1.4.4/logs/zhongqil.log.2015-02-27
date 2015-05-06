@@ -1,0 +1,1222 @@
+[2015-02-27 09:04:28,534][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 9.9gb[4.3%], shards will be relocated away from this node
+[2015-02-27 09:04:28,754][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:36:39,998][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 9.8gb[4.2%], shards will be relocated away from this node
+[2015-02-27 09:36:40,032][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:37:09,971][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:37:39,976][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:38:09,980][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:38:09,981][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:38:39,987][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:39:09,994][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:39:09,994][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:39:39,998][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:40:10,004][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:40:10,004][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:40:40,006][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:41:10,009][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:41:10,009][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:41:40,021][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:42:10,022][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:42:10,023][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:42:40,025][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:43:10,033][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:43:10,033][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:43:40,037][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:44:10,042][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:44:10,042][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:44:40,047][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:45:10,050][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:45:10,050][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:45:40,054][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:46:10,054][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:46:10,054][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:46:40,060][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:47:10,062][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:47:10,062][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:47:40,066][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:48:10,065][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:48:10,066][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:48:40,069][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:49:10,073][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:49:10,074][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:49:40,076][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:50:10,083][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:50:10,083][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:50:40,089][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:51:10,093][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:51:10,093][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:51:40,095][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:52:10,102][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:52:10,102][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:52:40,103][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:53:10,107][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:53:10,107][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:53:40,110][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:54:10,113][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:54:10,114][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:54:40,117][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:55:10,123][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:55:10,123][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:55:40,124][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:56:10,126][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:56:10,126][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:56:40,126][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:57:10,132][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:57:10,132][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:57:40,135][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:58:10,142][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:58:10,142][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:58:40,146][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:59:10,148][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 09:59:10,148][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 09:59:40,155][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:00:10,159][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:00:10,159][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:00:40,162][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:01:10,166][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:01:10,166][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:01:40,165][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:02:10,172][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:02:10,172][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:02:40,174][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:03:10,180][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:03:10,180][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:03:40,182][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:04:10,186][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:04:10,186][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:04:40,192][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:05:10,192][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:05:10,192][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:05:40,196][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:06:10,200][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:06:10,200][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:06:40,209][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:07:10,203][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:07:10,203][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:07:40,206][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:08:10,209][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:08:10,209][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:08:40,210][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:09:10,212][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:09:10,212][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:09:40,215][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:10:10,216][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:10:10,217][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:10:40,216][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:11:10,219][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:11:10,219][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:11:40,222][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:12:07,043][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:12:37,047][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:12:37,047][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:13:07,051][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:13:37,055][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:13:37,055][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:14:07,058][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:14:37,060][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:14:37,060][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:15:07,066][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:15:37,073][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:15:37,073][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:16:07,072][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:16:37,078][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:16:37,078][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:17:07,081][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:17:37,088][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:17:37,089][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:18:07,090][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:18:37,093][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:18:37,093][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:19:07,099][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:19:37,101][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:19:37,102][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:20:07,103][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:20:37,112][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:20:37,112][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:21:07,116][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:21:37,116][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:21:37,116][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:22:07,121][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:22:37,123][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:22:37,123][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:23:07,126][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:23:37,130][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:23:37,131][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:24:07,130][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:24:37,134][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:24:37,134][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:25:07,137][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:25:37,145][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:25:37,145][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:26:07,149][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:26:37,150][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:26:37,150][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:27:07,157][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:27:37,160][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:27:37,160][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:28:07,166][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:28:37,172][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:28:37,172][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:29:07,176][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:29:37,182][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:29:37,182][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:30:07,184][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:30:37,188][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:30:37,188][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:31:07,190][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:31:37,196][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:31:37,196][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:32:07,199][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:32:37,205][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:32:37,206][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:33:07,210][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:33:37,214][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:33:37,214][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:34:07,216][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:34:37,221][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:34:37,221][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:35:07,229][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:35:37,232][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:35:37,232][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:36:07,236][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:36:37,244][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:36:37,244][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:37:07,240][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:37:37,245][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:37:37,245][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:38:07,250][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:38:37,255][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:38:37,255][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:39:07,261][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:39:37,264][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:39:37,264][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:40:07,267][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:40:37,270][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:40:37,270][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:41:07,274][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:41:37,278][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:41:37,278][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:42:07,282][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:42:37,288][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:42:37,288][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:43:07,293][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:43:37,300][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:43:37,300][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:44:07,304][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:44:37,308][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:44:37,308][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:45:07,309][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:45:37,316][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:45:37,317][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:46:07,319][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:46:37,325][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:46:37,325][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:47:07,327][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:47:37,521][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:47:37,521][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:48:07,335][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:48:37,338][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:49:07,343][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:49:07,343][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:49:37,349][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:50:07,351][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:50:07,351][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:50:37,354][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:51:07,363][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 10:51:07,363][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 10:51:37,362][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 11:52:01,863][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 11:52:01,863][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:34:14,864][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:34:14,864][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:34:44,867][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:35:14,871][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:35:14,871][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:35:44,875][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:36:14,881][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:36:14,881][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:36:44,885][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:37:14,890][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:37:14,890][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:37:44,894][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:38:14,896][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:38:14,896][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:38:44,898][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:39:14,904][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:39:14,904][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:39:44,909][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:40:14,909][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:40:14,909][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:40:44,911][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:41:14,917][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:41:14,917][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:41:44,921][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:42:14,928][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:42:14,929][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:42:44,933][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:43:14,936][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:43:14,936][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:43:44,941][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:44:14,942][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:44:14,942][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:44:44,948][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:45:14,954][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:45:14,954][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:45:44,958][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:46:14,963][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:46:14,963][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:46:44,966][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:47:14,970][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:47:14,970][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:47:44,975][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:48:14,980][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:48:14,980][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:48:44,983][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:49:14,987][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:49:14,987][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:49:44,992][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:50:14,993][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:50:14,993][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:50:44,999][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:51:15,003][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:51:15,003][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:51:45,008][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 10.9gb[4.7%], shards will be relocated away from this node
+[2015-02-27 12:52:15,015][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:52:15,015][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:52:45,021][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:53:15,024][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:53:15,024][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:53:45,025][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:54:15,026][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:54:15,026][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:54:45,033][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:55:15,038][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:55:15,038][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:55:45,041][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:56:15,043][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:56:15,043][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:56:45,049][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:57:15,053][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:57:15,053][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:57:45,055][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:58:15,059][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:58:15,059][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:58:45,063][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:59:15,067][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 12:59:15,067][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 12:59:45,073][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:00:15,078][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:00:15,078][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:00:45,082][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:01:15,087][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:01:15,087][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:01:45,094][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:02:15,098][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:02:15,098][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:02:45,099][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:03:15,103][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:03:15,103][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:03:45,107][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:04:15,109][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:04:15,109][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:04:45,111][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:05:15,116][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:05:15,116][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:05:45,120][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:06:15,125][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:06:15,125][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:06:45,128][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:07:15,133][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:07:15,133][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:07:45,138][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:08:15,144][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:08:15,144][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:08:45,148][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:09:15,152][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:09:15,152][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:09:45,157][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:10:15,158][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:10:15,158][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:10:45,159][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:11:15,161][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:11:15,161][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:11:45,162][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:12:15,167][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:12:15,167][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:12:45,168][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:13:15,172][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:13:15,172][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:13:45,176][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:14:15,180][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:14:15,180][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:14:45,184][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:15:15,189][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:15:15,189][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:15:45,192][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:16:15,197][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:16:15,197][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:16:28,235][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:28,235][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:28,235][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:28,235][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:28,235][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:45,201][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:16:47,277][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:47,277][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:47,277][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:47,277][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:16:47,277][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:17:15,203][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:17:15,203][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:17:45,204][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:18:15,205][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:18:15,205][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:18:45,207][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:19:15,210][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:19:15,211][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:19:45,212][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:20:15,216][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:20:15,216][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:20:45,218][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:21:15,221][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:21:15,221][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:21:45,223][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:22:15,228][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.9gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:22:15,228][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:22:45,231][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:23:15,236][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:23:15,236][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:23:45,242][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:24:15,247][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:24:15,247][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:24:45,247][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:25:15,252][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:25:15,253][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:25:45,256][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:26:15,257][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:26:15,257][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:26:45,263][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:27:15,265][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:27:15,265][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:27:45,266][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:28:15,270][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:28:15,270][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:28:42,082][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:28:42,082][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:28:42,082][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:28:42,082][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:28:42,082][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:28:45,272][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:29:15,273][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:29:15,273][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:29:45,278][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:30:15,278][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:30:15,278][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:30:16,988][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"match_all": {}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:30:16,989][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"match_all": {}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:30:16,989][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"match_all": {}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:30:16,989][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"match_all": {}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:30:16,988][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"match_all": {}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:30:45,282][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:31:15,284][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:31:15,284][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:31:45,289][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:32:15,295][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:32:15,295][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:32:45,301][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:33:15,303][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:33:15,303][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:33:45,305][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:34:15,311][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:34:15,312][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:34:45,316][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:35:15,320][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:35:15,320][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:35:45,324][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:36:15,328][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:36:15,328][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:36:45,329][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:37:15,331][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:37:15,331][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:37:33,374][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"author": {"match_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No query registered for [author]
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:279)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:37:33,374][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"author": {"match_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No query registered for [author]
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:279)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:37:33,374][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"author": {"match_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No query registered for [author]
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:279)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:37:33,374][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"author": {"match_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No query registered for [author]
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:279)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:37:33,374][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"author": {"match_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No query registered for [author]
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:279)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:37:45,332][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:38:15,336][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:38:15,336][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:38:42,627][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"query": {"match_all": {}}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:38:42,627][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"query": {"match_all": {}}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:38:42,627][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"query": {"match_all": {}}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:38:42,627][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"query": {"match_all": {}}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:38:42,627][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author": {"query": {"match_all": {}}}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:38:45,338][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:39:15,338][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:39:15,338][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:39:45,343][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:39:56,214][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:39:56,214][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:39:56,214][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:39:56,214][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:39:56,214][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"author_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:40:15,347][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:40:15,347][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:40:32,596][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match_all": "author"}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [_na] query malformed, no field after start_object
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:274)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:40:32,596][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match_all": "author"}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [_na] query malformed, no field after start_object
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:274)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:40:32,596][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match_all": "author"}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [_na] query malformed, no field after start_object
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:274)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:40:32,596][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match_all": "author"}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [_na] query malformed, no field after start_object
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:274)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:40:32,596][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match_all": "author"}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [_na] query malformed, no field after start_object
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:274)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:40:45,351][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:41:15,352][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:41:15,352][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:41:45,358][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:42:15,360][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:42:15,360][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:42:45,364][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:43:15,369][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:43:15,369][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:43:45,370][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:44:15,376][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:44:15,376][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:44:45,378][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:45:15,382][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:45:15,382][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:45:45,386][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:46:15,390][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:46:15,391][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:46:22,409][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"bool": {"match": {"author": "author"}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [bool] query does not support [match]
+	at org.elasticsearch.index.query.BoolQueryParser.parse(BoolQueryParser.java:88)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:46:22,409][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"bool": {"match": {"author": "author"}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [bool] query does not support [match]
+	at org.elasticsearch.index.query.BoolQueryParser.parse(BoolQueryParser.java:88)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:46:22,409][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"bool": {"match": {"author": "author"}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [bool] query does not support [match]
+	at org.elasticsearch.index.query.BoolQueryParser.parse(BoolQueryParser.java:88)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:46:22,409][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"bool": {"match": {"author": "author"}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [bool] query does not support [match]
+	at org.elasticsearch.index.query.BoolQueryParser.parse(BoolQueryParser.java:88)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:46:22,409][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"bool": {"match": {"author": "author"}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] [bool] query does not support [match]
+	at org.elasticsearch.index.query.BoolQueryParser.parse(BoolQueryParser.java:88)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:46:45,392][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:47:15,393][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:47:15,393][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:47:45,394][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:48:15,396][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:48:15,396][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:48:45,401][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:49:15,402][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:49:15,402][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:49:45,404][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:50:15,410][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:50:15,410][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:50:41,320][DEBUG][action.count             ] [Hera] [i_novels][1], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:50:41,320][DEBUG][action.count             ] [Hera] [i_novels][4], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:50:41,320][DEBUG][action.count             ] [Hera] [i_novels][0], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:50:41,320][DEBUG][action.count             ] [Hera] [i_novels][3], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:50:41,320][DEBUG][action.count             ] [Hera] [i_novels][2], node[KXaOgNlCTlyxaKcyX92Ayw], [P], s[STARTED]: failed to execute [[[i_novels]][novel], source[{"query": {"match": {"_all": {}}}}]]
+org.elasticsearch.index.query.QueryParsingException: [i_novels] No text specified for text query
+	at org.elasticsearch.index.query.MatchQueryParser.parse(MatchQueryParser.java:162)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:382)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:281)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:276)
+	at org.elasticsearch.index.query.IndexQueryParserService.parseQuery(IndexQueryParserService.java:354)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:187)
+	at org.elasticsearch.action.count.TransportCountAction.shardOperation(TransportCountAction.java:66)
+	at org.elasticsearch.action.support.broadcast.TransportBroadcastOperationAction$AsyncBroadcastAction$1.run(TransportBroadcastOperationAction.java:171)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-02-27 13:50:45,413][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:51:15,418][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:51:15,418][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:51:45,421][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:52:15,427][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:52:15,428][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:52:45,430][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:53:15,434][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:53:15,434][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:53:45,438][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:54:15,443][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:54:15,443][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:54:45,442][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:55:15,445][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:55:15,445][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:55:45,449][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:56:15,453][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:56:15,453][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:56:45,458][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:57:15,462][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:57:15,462][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:57:45,467][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:58:15,467][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:58:15,467][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:58:45,471][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:59:15,475][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 13:59:15,476][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 13:59:45,480][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:00:15,484][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:00:15,484][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:00:45,485][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:01:15,489][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:01:15,489][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:01:45,493][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:02:15,499][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:02:15,499][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:02:45,501][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:03:15,505][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:03:15,505][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:03:45,510][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:04:15,511][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:04:15,511][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:04:45,515][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:05:15,517][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:05:15,517][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:05:45,520][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:06:15,521][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:06:15,522][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:06:45,525][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:07:15,527][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:07:15,527][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:07:45,530][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:08:15,535][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:08:15,535][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:08:45,536][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:09:15,540][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:09:15,541][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:09:45,545][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:10:15,546][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:10:15,546][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 14:10:45,547][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:11:15,550][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 14:11:15,551][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 15:11:39,535][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.8gb[5.1%], shards will be relocated away from this node
+[2015-02-27 15:11:39,535][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 17:11:57,732][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 11.3gb[4.9%], shards will be relocated away from this node
+[2015-02-27 17:11:57,732][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 19:26:44,786][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 9.3gb[4%], shards will be relocated away from this node
+[2015-02-27 19:26:44,797][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 20:27:03,270][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 9.3gb[4%], shards will be relocated away from this node
+[2015-02-27 20:27:03,272][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-02-27 22:12:22,696][WARN ][cluster.routing.allocation.decider] [Hera] high disk watermark [10%] exceeded on [KXaOgNlCTlyxaKcyX92Ayw][Hera] free: 9.3gb[4%], shards will be relocated away from this node
+[2015-02-27 22:12:22,697][INFO ][cluster.routing.allocation.decider] [Hera] high disk watermark exceeded on one or more nodes, rerouting shards
