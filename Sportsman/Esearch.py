@@ -24,7 +24,7 @@ class ES_query(object):
 
     #bulk load the data
     def bulk_loading(self):
-        with open(r'data\onthesnowplace.json','r') as j:
+        with open(r'data\swimmersguide_google.json','r') as j:
             json_text = json.load(j)
         bulk_file = []
         action = { "index": { "_index": "i_sportsman", "_type": "stadium" }}
@@ -78,11 +78,12 @@ class ES_query(object):
             print '\n'
             print 'name: ' + hits[i]["_source"]['name']
             stadium = hits[i]["_source"]
-            print stadium
+            #print stadium
 
 
 if __name__ == "__main__":
     x =  ES_query()
-    x.q_nl('ski places with more than 100 trails within 150 miles',(1,2))
-    x.bulk_loading()
-    q_addr = x.q_mwf('MA','Ski',42.3688784,-71.2467742)
+   # x.bulk_loading()
+    x.q_nl('swimming pool within 2 miles',(42.3688784,-71.2467742))
+   
+   # q_addr = x.q_mwf('MA','Ski',42.3688784,-71.2467742)
