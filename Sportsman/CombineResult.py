@@ -33,16 +33,20 @@ def add_google_places(placeiter,output,term,process_func):
             print 'Error: Google Return no results'
         else:
             place=query_result.places[0]
-            place.get_details()
+            try:
+                place.get_details()
+                result['address']=place.formatted_address
+                result['international_phone_number']=place.international_phone_number
+                result['local_phone_number']=place.local_phone_number
+                if place.website:
+                    result['website']=place.website
+                result['google_url']=place.url
+                result['google_maps_id']=place.place_id
+            except:
+                pass
             
-            result['address']=place.formatted_address
-            result['international_phone_number']=place.international_phone_number
-            result['local_phone_number']=place.local_phone_number
-            if place.website:
-                result['website']=place.website
             result['geo_location']={'lat':place.geo_location['lat'],'lon':place.geo_location['lng']}
-            result['google_url']=place.url
-            result['google_maps_id']=place.place_id
+            
 
         process_func(elem,result)
         

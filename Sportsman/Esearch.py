@@ -83,6 +83,6 @@ class ES_query(object):
 
 if __name__ == "__main__":
     x =  ES_query()
-    x.q_nl('ski places with more than 100 trails within 150 miles')
+    x.q_nl('ski places with more than 100 trails within 150 miles',(1,2))
     x.bulk_loading()
     q_addr = x.q_mwf('MA','Ski',42.3688784,-71.2467742)

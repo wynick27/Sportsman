@@ -86,12 +86,12 @@ class QueryString():
         return self.geolocation
 
     def query_location(self,qs):
-        query_result = google_places.text_search(location=qs)
+        query_result = google_places.text_search(query=qs)
         if len(query_result.places) == 0:
             return self.get_current_location()
         else:
             place=query_result.places[0]
-            return (place.geolocation['lat'],place.geolocation['lng'])
+            return (place.geo_location['lat'],place.geo_location['lng'])
 
 
     def gen_range_expr(self):
@@ -139,8 +139,9 @@ class QueryString():
             filters.append(self.gen_with_expr(sport))
         query ={}
         queries = {"bool" : {"must": queries}} if len(queries) > 1 else queries[0]
-        filters = {"bool" : {"must": filters}} if len(filters) > 1 else filters[0]
+        
         if filter:
+            filters = {"bool" : {"must": filters}} if len(filters) > 1 else filters[0]
             query['query'] = {
     "filtered" : {
         #"query" : {"bool" : {"must": queries}} if len(queries) > 1 else queries[0],
@@ -203,6 +204,6 @@ if __name__ == "__main__":
     nlquery=NLQuery()
     for t in test:
      print "Search string:", t
-     print "Eval stack: ", nlquery.gen_query(t)
+     print "Eval stack: ", nlquery.gen_query(t,(1,2))
      #evalExpr = evalStack.generateSetExpression()
     # print "Eval expr: ", evalExpr
